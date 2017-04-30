@@ -1,0 +1,10 @@
+D:\Project\ColorFast\ReaderSL500WIN64\SL500\bin\Debug\SL500.exe.config
+D:\Project\ColorFast\ReaderSL500WIN64\SL500\obj\Debug\SL500.frm_main.resources
+D:\Project\ColorFast\ReaderSL500WIN64\SL500\obj\Debug\SL500.Resources.resources
+D:\Project\ColorFast\ReaderSL500WIN64\SL500\obj\Debug\SL500.vbproj.GenerateResource.Cache
+D:\Project\ColorFast\ReaderSL500WIN64\SL500\bin\Debug\SL500.exe
+D:\Project\ColorFast\ReaderSL500WIN64\SL500\bin\Debug\SL500.pdb
+D:\Project\ColorFast\ReaderSL500WIN64\SL500\bin\Debug\SL500.xml
+D:\Project\ColorFast\ReaderSL500WIN64\SL500\obj\Debug\SL500.exe
+D:\Project\ColorFast\ReaderSL500WIN64\SL500\obj\Debug\SL500.xml
+D:\Project\ColorFast\ReaderSL500WIN64\SL500\obj\Debug\SL500.pdb

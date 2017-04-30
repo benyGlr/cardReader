@@ -1,0 +1,11 @@
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\bin\Debug\VMSRXMifare1K.exe.config
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\bin\Debug\VMSRXMifare1K.exe
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\bin\Debug\VMSRXMifare1K.pdb
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\obj\Debug\Mifare1K.Mifare_1K.resources
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\obj\Debug\VMSRXMifare1K.Properties.Resources.resources
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\obj\Debug\VMSRXMifare1K.csproj.GenerateResource.Cache
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\obj\Debug\VMSRXMifare1K.exe
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\obj\Debug\VMSRXMifare1K.pdb
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\obj\Debug\VMSRXMifare1K.csprojResolveAssemblyReference.cache
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\obj\Debug\VMSRXMifare1K.frmMain.resources
+D:\Project\ColorFast\ReaderSL500WIN64\ICTReader\VMSRXMifare1K\obj\Debug\Mifare1K.Mifare1K.resources
